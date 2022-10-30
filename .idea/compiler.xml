@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="FLU1" />
         <module name="Transformer" />
+        <module name="FLU2" />
         <module name="CPU" />
         <module name="ALU" />
         <module name="Cache2" />
@@ -16,8 +18,6 @@
         <module name="NBCD" />
         <module name="CRC" />
         <module name="Cache1" />
-        <module name="FLU(1)" />
-        <module name="FLU(2)" />
         <module name="Disk" />
       </profile>
     </annotationProcessing>
@@ -29,8 +29,8 @@
       <module name="CPU" target="1.8" />
       <module name="CRC" target="1.8" />
       <module name="Disk" target="1.8" />
-      <module name="FLU(1)" target="1.8" />
-      <module name="FLU(2)" target="1.8" />
+      <module name="FLU1" target="1.8" />
+      <module name="FLU2" target="1.8" />
       <module name="NBCD" target="1.8" />
       <module name="Transformer" target="1.8" />
       <module name="Virtual Memory1" target="1.8" />
