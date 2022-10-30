@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/programming02-CRC/pom.xml" />
+        <option value="$PROJECT_DIR$/programming03-ALU/pom.xml" />
+        <option value="$PROJECT_DIR$/programming12-CPU/pom.xml" />
+        <option value="$PROJECT_DIR$/programming04-FLU1/pom.xml" />
+        <option value="$PROJECT_DIR$/programming05-FLU2/pom.xml" />
+        <option value="$PROJECT_DIR$/programming06-NBCD/pom.xml" />
+        <option value="$PROJECT_DIR$/programming09-Disk/pom.xml" />
+        <option value="$PROJECT_DIR$/programming07-Cache1/pom.xml" />
+        <option value="$PROJECT_DIR$/programming08-Cache2/pom.xml" />
+        <option value="$PROJECT_DIR$/programming13-ControlUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/programming10-Virtual Memory1/pom.xml" />
+        <option value="$PROJECT_DIR$/programming11-Virtual Memory2/pom.xml" />
+        <option value="$PROJECT_DIR$/programming01-Transformer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/programming03-ALU/ALU.iml" filepath="$PROJECT_DIR$/programming03-ALU/ALU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/COA2021.iml" filepath="$PROJECT_DIR$/.idea/COA2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming12-CPU/CPU.iml" filepath="$PROJECT_DIR$/programming12-CPU/CPU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming02-CRC/CRC.iml" filepath="$PROJECT_DIR$/programming02-CRC/CRC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming07-Cache1/Cache1.iml" filepath="$PROJECT_DIR$/programming07-Cache1/Cache1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming08-Cache2/Cache2.iml" filepath="$PROJECT_DIR$/programming08-Cache2/Cache2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming13-ControlUnit/Control Unit.iml" filepath="$PROJECT_DIR$/programming13-ControlUnit/Control Unit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming09-Disk/Disk.iml" filepath="$PROJECT_DIR$/programming09-Disk/Disk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming04-FLU1/FLU(1).iml" filepath="$PROJECT_DIR$/programming04-FLU1/FLU(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming05-FLU2/FLU(2).iml" filepath="$PROJECT_DIR$/programming05-FLU2/FLU(2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming06-NBCD/NBCD.iml" filepath="$PROJECT_DIR$/programming06-NBCD/NBCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming01-Transformer/Transformer.iml" filepath="$PROJECT_DIR$/programming01-Transformer/Transformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming10-Virtual Memory1/Virtual Memory1.iml" filepath="$PROJECT_DIR$/programming10-Virtual Memory1/Virtual Memory1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming11-Virtual Memory2/Virtual Memory2.iml" filepath="$PROJECT_DIR$/programming11-Virtual Memory2/Virtual Memory2.iml" />
+    </modules>
+  </component>
+</project>

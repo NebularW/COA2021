@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Transformer" />
+        <module name="CPU" />
+        <module name="ALU" />
+        <module name="Cache2" />
+        <module name="Virtual Memory1" />
+        <module name="Virtual Memory2" />
+        <module name="Control Unit" />
+        <module name="NBCD" />
+        <module name="CRC" />
+        <module name="Cache1" />
+        <module name="FLU(1)" />
+        <module name="FLU(2)" />
+        <module name="Disk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ALU" target="1.8" />
+      <module name="Cache1" target="1.8" />
+      <module name="Cache2" target="1.8" />
+      <module name="Control Unit" target="1.8" />
+      <module name="CPU" target="1.8" />
+      <module name="CRC" target="1.8" />
+      <module name="Disk" target="1.8" />
+      <module name="FLU(1)" target="1.8" />
+      <module name="FLU(2)" target="1.8" />
+      <module name="NBCD" target="1.8" />
+      <module name="Transformer" target="1.8" />
+      <module name="Virtual Memory1" target="1.8" />
+      <module name="Virtual Memory2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
