@@ -6,8 +6,6 @@
         <option value="$PROJECT_DIR$/programming02-CRC/pom.xml" />
         <option value="$PROJECT_DIR$/programming03-ALU/pom.xml" />
         <option value="$PROJECT_DIR$/programming12-CPU/pom.xml" />
-        <option value="$PROJECT_DIR$/programming04-FLU1/pom.xml" />
-        <option value="$PROJECT_DIR$/programming05-FLU2/pom.xml" />
         <option value="$PROJECT_DIR$/programming06-NBCD/pom.xml" />
         <option value="$PROJECT_DIR$/programming09-Disk/pom.xml" />
         <option value="$PROJECT_DIR$/programming07-Cache1/pom.xml" />
@@ -16,6 +14,8 @@
         <option value="$PROJECT_DIR$/programming10-Virtual Memory1/pom.xml" />
         <option value="$PROJECT_DIR$/programming11-Virtual Memory2/pom.xml" />
         <option value="$PROJECT_DIR$/programming01-Transformer/pom.xml" />
+        <option value="$PROJECT_DIR$/programming05-FLU2/pom.xml" />
+        <option value="$PROJECT_DIR$/programming04-FLU1/pom.xml" />
       </list>
     </option>
   </component>
